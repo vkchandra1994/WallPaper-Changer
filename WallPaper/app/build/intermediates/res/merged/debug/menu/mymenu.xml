@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/rate"
+        android:icon="@drawable/star"
+        android:title="RateMe"
+        android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/hom"
+        android:icon="@drawable/like"
+        android:title="ShareMe"
+        android:showAsAction="ifRoom"/>
+
+
+
+</menu>

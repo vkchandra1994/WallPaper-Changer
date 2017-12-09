@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vishnu/AndroidStudioProjects/WallPaper/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/vishnu/AndroidStudioProjects/WallPaper/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_ac3fa2cb11e8f43e7b5ec33d92d80f221067fe74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishnu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/vishnu/AndroidStudioProjects/WallPaper/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_5dc4182a8645598180cca282d1c446d48bafb180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishnu/AndroidStudioProjects/WallPaper/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/vishnu/AndroidStudioProjects/WallPaper/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_9a16e5d7ec54744e4a181b941c901715da13b4fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishnu/AndroidStudioProjects/WallPaper/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/vishnu/AndroidStudioProjects/WallPaper/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_033b8d6075af73b88312f2cab65ed1a81c47d668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishnu/AndroidStudioProjects/WallPaper/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/vishnu/AndroidStudioProjects/WallPaper/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_537159fa74af628abcbcb396c3cb1cc86fe8ec53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishnu/AndroidStudioProjects/WallPaper/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/vishnu/AndroidStudioProjects/WallPaper/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_232abfebae6bf85d693206dde10d7d591af2f07f.jar" />
+    </item>
+
+</items>

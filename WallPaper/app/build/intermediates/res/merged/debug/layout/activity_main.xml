@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="fill"
+    android:background="#34495e"
+    android:orientation="vertical"
+    android:weightSum="100" >
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="100"
+        android:adjustViewBounds="true"
+        android:background="#66FFFFFF"
+        android:maxHeight="91dip"
+        android:maxWidth="47dip"
+        android:padding="10dip"
+        android:src="@drawable/car" />
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SET AS WALLPAPER"
+        android:textColor="#f14e"
+        android:textStyle="bold"
+        android:fontFamily="cursive"
+        android:textSize="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="80dp"/>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/b1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="cursive"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Forward" >
+        </Button>
+
+        <Button
+            android:id="@+id/b2"
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fontFamily="cursive"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Backward" >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>
